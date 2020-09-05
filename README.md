@@ -6,7 +6,7 @@
 ## I'm a Senoir Full Stack Developer, and DevOps Eng!
 
 - 🔭 I’m currently working on [Cudy Project](https://www.cudy.co/sg)!
-- 🌱 I’m currently learning web penetration testing	`:sound:`
+- 🌱 I’m currently learning web penetration testing	:sound:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
