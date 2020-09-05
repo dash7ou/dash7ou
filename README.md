@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+---
+
 
 ### Connect with me:
 
@@ -43,12 +45,21 @@
 <br />
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn HTML5 & CSS3](https://github.com/dash7ou/team-course)
 - [Learn Git & Github](https://github.com/dash7ou/team-course)
 - [Learn DOM ](https://github.com/dash7ou/team-course)
+
+<br>
+
+---
+<br>
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dash7ou&show_icons=true&hide_border=true" />
 
 
 [website]: https://codeSTACKr.com
