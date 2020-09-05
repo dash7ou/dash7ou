@@ -1,12 +1,12 @@
 ### Hi there, I'm Mohammed - [Dashzou][website] 👋
 
 [![Website](https://img.shields.io/website?label=dashzou.web.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dashzou.web.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dashzou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dash7ou)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dash7ou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dash7ou)
 
 ## I'm a Senoir Full Stack Developer, and DevOps Eng!
 
 - 🔭 I’m currently working on [Cudy Project](https://www.cudy.co/sg)!
-- 🌱 I’m currently learning web penetration testing	:sound:
+- 🌱 I’m currently learning web penetration testing	:sunglasses:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
