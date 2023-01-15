@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohammed - [Dashzou][website] 👋
 
 
-## I am a Senior Full Stack Developer, DevOps Engineering, Blockchain Engineering, and Cloud Manager.
+#### I am a Senior Full Stack Developer, DevOps Engineering, Blockchain Engineering, and Cloud Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 I love programming, problem-solving, and app development, up-to-date with the last technologies in my work field.!
 
@@ -55,9 +55,14 @@ I love programming, problem-solving, and app development, up-to-date with the la
 
 <br>
 
----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dash7ou&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dash7ou&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=nord&column=6)](https://github.com/Attia-Ahdash7oumed)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dash7ou&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/dash7ou)
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/dash7ou
