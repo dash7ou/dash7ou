@@ -1,14 +1,13 @@
 ### Hi there, I'm Mohammed - [Dashzou][website] 👋
 
-[![Website](https://img.shields.io/website?label=dashzou.web.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dashzou.web.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dash7ou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dash7ou)
 
-## I'm a Senoir Full Stack Developer, and DevOps Eng!
+## I am a Senior Full Stack Developer, DevOps Engineering, Blockchain Engineering, and Cloud Manager.
 
-- 🔭 I’m currently working on [Cudy Project](https://www.cudy.co/sg)!
+I love programming, problem-solving, and app development, up-to-date with the last technologies in my work field.!
+
 - 🌱 I’m currently learning web penetration testing	:sunglasses:
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ---
 
@@ -58,8 +57,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dash7ou&show_icons=true&hide_border=true" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dash7ou&show_icons=true&theme=radical)
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/dash7ou
