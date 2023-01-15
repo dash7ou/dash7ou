@@ -58,7 +58,7 @@ I love programming, problem-solving, and app development, up-to-date with the la
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dash7ou&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=nord&column=6)](https://github.com/Attia-Ahdash7oumed)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dash7ou&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=nord&column=6)](https://github.com/dash7ou)
 
 ## 🔥 GitHub Streak
 
