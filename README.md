@@ -64,7 +64,7 @@ I love programming, problem-solving, and app development, up-to-date with the la
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dash7ou&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/dash7ou)
 
-[website]: https://codeSTACKr.com
+[website]:
 [twitter]: https://twitter.com/dash7ou
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]:https://www.instagram.com/dashzou
