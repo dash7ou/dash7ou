@@ -5,7 +5,7 @@
 
 I love programming, problem-solving, and app development, up-to-date with the last technologies in my work field.!
 
-- 🌱 I’m currently learning LLMs & DeepLearning	:sunglasses:
+- 🌱 I’m currently working as an AI Engineer ( LLMs, NLP & Deep Learning )
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to AI Open Source projects
 
