@@ -21,9 +21,6 @@ I love programming, problem-solving, and app development, up-to-date with the la
 
 <br />
 
-<br />
-<br />
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -33,7 +30,6 @@ I love programming, problem-solving, and app development, up-to-date with the la
 - [Web Development](https://github.com/dash7ou/team-course)
 
 <br>
-
 
 ## 🏆 GitHub Trophies
 
